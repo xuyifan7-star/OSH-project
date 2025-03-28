@@ -11,6 +11,6 @@
 
 |大模型| GPT4| Cohere | BERT |T5|PaLM|Dolly
 | :--------- | :---------:  |  :---------:  | :---------: | :---------: | :---------: | :---------: |
-| 提供商 |OpenAI |  Cohere|Google|Google|Databricks|
+| 提供商 |OpenAI |  Cohere|Google|Google|Google|Databricks|
 | 开源|  N| N |Y|Y|Y|Y|
 |可调性|N|Y|Y|Y|Y|Y|
